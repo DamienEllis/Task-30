@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damien",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "bootstrap": "^5.2.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^6.0.0",
+    "react-bootstrap": "^2.5.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "user-agents": "^1.0.1172"
+  },
+  "engines": {
+    "node": "16.17.0",
+    "npm": "8.15.0"
+  }
+}
